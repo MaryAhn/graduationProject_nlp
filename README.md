@@ -36,7 +36,7 @@ KR-WordRank: https://lovit.github.io/nlp/2019/05/01/krwordrank_sentence/
 안건희 - pdf 크롤링, 텍스트 전처리 및 정규화, 문서 요약 (TextRank, KR-WordRank) <br>
 link: https://blog.naver.com/aws_lik <br>
 
-김지환 - https://deli-ce.tistory.com/2 <br>
-link: 자연어처리와 추출, 생성 요약에 대한 이론적 설명 <br>
+김지환 - 자연어처리와 추출, 생성 요약에 대한 이론적 설명 <br>
+link: https://deli-ce.tistory.com/2 <br>
 
 7. Lisence <br>
