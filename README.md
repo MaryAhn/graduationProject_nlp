@@ -38,5 +38,3 @@ link: https://blog.naver.com/aws_lik <br>
 
 김지환 - 자연어처리와 추출, 생성 요약에 대한 이론적 설명 <br>
 link: https://deli-ce.tistory.com/2 <br>
-
-7. Lisence <br>
