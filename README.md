@@ -2,7 +2,7 @@
 
 ## Explanation (English)
 
-1. File description
+1. File Description
 dataloader: Base dataloader class
 summary-reward-no-reference: Library for KR-WordRank (NLP library for the Korean language, not exist now) <br>
 textrank: Library for Textrank <br>
@@ -12,19 +12,19 @@ AbstractToTitle_textrank.py: Generate a title from the abstract using WorkRank<b
 CleanText.py: Preprocess Korean data with Mecab <be>
 CsvToTxt.py: Convert the title and abstract of a paper from a .csv file to a .txt file and save <br>
 DataPreProcessing_okt.py: Preprocess Korean data with Okt <br>
-pdf_crawler.py: Convert a .pdf file to a .csv file and save <br>
+pdf_crawler.py: Convert a .pdf file to a .csv file and save <br>
 
 
-2. 실행 코드<br>
+2. Code Explanation <br>
 
 python AbstractToTitle_krwordrank.py --data_input_path=your_input_path --data_save_path=your_save_path<br>
 python AbstractToTitle_textrank.py --data_input_path=your_input_path --data_save_path=your_save_path<br>
 python CleanText_mecab.py --data_input_path=your_input_path --data_save_path=your_save_path<br>
 
-3. 시연 영상<br>
+3. Supplementary Material (video) <br>
 youtube link: https://www.youtube.com/channel/UCvKmqttq--wUqcg53IRIbMw
 
-4. 프로젝트 소개 <br>
+4. Project Summary <br>
 
 Abstract text summarization model which generates a title from a paper abstract. 
 
@@ -33,7 +33,7 @@ Abstract text summarization model which generates a title from a paper abstract.
 TextRank: https://lovit.github.io/nlp/2019/04/30/textrank/ <br>
 KR-WordRank: https://lovit.github.io/nlp/2019/05/01/krwordrank_sentence/
 
-6. 기술 블로그 내용 <br>
+6. Engineering Blog <br>
 
 Keonhee Ahn - Crawl .pdf file, Text pre-process including normalization, Text summarization (TextRank, KR-WordRank) <br>
 link: https://blog.naver.com/aws_lik <br>
